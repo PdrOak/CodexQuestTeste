@@ -15,7 +15,7 @@ public class ProjetoPI {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Utilizando o Git atraves do Netbeans");
+        System.out.println("Utilizandos o Git atraves do Netbeans");
     }
     
 }
